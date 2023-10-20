@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CivSimJava.iml" filepath="$PROJECT_DIR$/CivSimJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/REGEX/REGEX.iml" filepath="$PROJECT_DIR$/REGEX/REGEX.iml" />
+    </modules>
+  </component>
+</project>
